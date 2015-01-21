@@ -1,14 +1,23 @@
 # hassuus
 
-A Clojure library designed to ... well, that part is up to you.
+My response to http://wunderdog.fi/koodaus-hassuimmat-sanat/
 
-## Usage
+### Resolve the puzzle (i.e. find the 'funniest' words)
 
-FIXME
+```bash
+$ lein run
+Found 6 words with funnyness score 72:
+   puuaineen
+   seremoniioilla
+   liioittelematta
+   leeaakaan
+   niiaamaan
+   seremoniioissa
+```
 
 ## License
 
-Copyright © 2015 FIXME
+Copyright © 2015 Jarppe Länsiö
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
